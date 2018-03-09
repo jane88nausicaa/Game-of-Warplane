@@ -13,3 +13,5 @@ This project implemented hit point and score calculating, background moving and 
 - When my plane hit the enemy plane with the bullets, my plane will win certain scores according the different kind of enemy plane
 
 - The enemy plane will lose their hit points(`HP`) each time they have a collision with the bullet from my plane, and they will explode when their `HP = 0`
+
+- When the `HP` of my plane is empty, the game will display `Game Over` on the screen
