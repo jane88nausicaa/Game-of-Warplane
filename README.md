@@ -1,6 +1,6 @@
 # Game-of-Warplane
 
-This project implemented hit point and score calculating, background moving and audio playing. You can play this game with `mouse`, `keyborad`, and 'touch pad`.
+This project implemented hit point and score calculating, background moving and audio playing. You can play this game with `mouse`, `keyboard`, and `touch pad`.
 
 <img width="792" alt="frame" src="https://user-images.githubusercontent.com/37192026/37187824-edb1fb70-2300-11e8-807f-492644fc93f6.png">
 
